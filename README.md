@@ -64,7 +64,7 @@ housing costs that accompany gentrification.
 Questions we might care to ask:
 
 * What is the year-over-year trend in total Parkdale bdd for restaurants
-  during the springtime (Mar 20 - July 20)?
+  during the springtime (Mar 20 - June 20)?
 * For all businesses in 2016, how many Parkdale bdd were there in North Parkdale
   vs South Parkdale (weighted by business license counts)?
 * What are the total Parkdale bdd for each forward sortation area
