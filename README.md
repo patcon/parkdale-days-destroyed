@@ -1,5 +1,7 @@
 # Parkdale Days Destroyed
 
+_This project is asprational and is not year functional._
+
 This is an experiment to borrow a concept from Bitcoin-land,
 a measure called _Bitcoin days destroyed_ (BTCdd), and try to
 apply it to the realm of gentrification as a rough indicator.
