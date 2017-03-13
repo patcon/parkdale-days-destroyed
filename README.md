@@ -10,9 +10,9 @@ apply it to the realm of gentrification as a rough indicator.
 
 ```
 mkvirtualenv parkdaledd --python=`which python3`
-pip install -r requirements.txt
 workon parkdaledd
-python manage.py migrate
+pip install -r requirements.txt
+gunicorn parkdaledd.wsgi
 ```
 
 ## Background
