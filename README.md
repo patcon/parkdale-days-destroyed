@@ -17,7 +17,7 @@ gunicorn parkdaledd.wsgi
 
 ## Background
 
-Generally, BTCdd were put forward as a way to guage economic activity in
+Generally, "Bitcoin days destroyed" (BTCdd) were a unit put forward as a way to guage economic activity in
 the Bitcoin ecosystem. Bitcoin has an interested property for a monetary
 system where every movement from one account to another happens in a
 public ledger. The catch is that someone can inflate a simple view of
